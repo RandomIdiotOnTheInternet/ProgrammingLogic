@@ -4,7 +4,6 @@ using System;
    {
    static void Main(string[] args) {
          // Step 1
-         Console.WriteLine("Hello, world!");
          Console.WriteLine("Gregory Blazek");
          Console.WriteLine("IT-1050-0-Programming Logic");
 
