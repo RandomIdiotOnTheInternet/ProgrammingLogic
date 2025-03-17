@@ -2,7 +2,7 @@ using System;
 
    class Program
    {
-   static void Main() {
+   static void Main(string[] args) {
          // Step 1
          Console.WriteLine("Hello, world!");
          Console.WriteLine("Gregory Blazek");
