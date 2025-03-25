@@ -60,9 +60,9 @@ class Program
         // Part 6
 
         int justTen = 10;
-        justTen--;
-        Console.WriteLine(justTen);
         justTen++;
+        Console.WriteLine(justTen);
+        justTen--;
         Console.WriteLine(justTen);
 
     }
