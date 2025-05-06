@@ -33,16 +33,17 @@ class Dog : Animal
 class Program
 {
   static void Main(string[] args)
-  {
+   {
     
     // Step 3
 
     Animal myAnimal = new Animal();
     Animal myCat = new Cat();
     Animal myDog = new Dog();
+    
     myAnimal.animalSound();
     myCat.animalSound();
     myDog.animalSound();
-    
+
   }
 }
